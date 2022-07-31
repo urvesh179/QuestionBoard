@@ -3,3 +3,4 @@ api/node_modules
 ui/node_modules
 api/package.json
 api/public
+api/.env
