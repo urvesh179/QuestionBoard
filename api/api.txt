@@ -1,0 +1,45 @@
+--------------Admin----------------
+
+volunteer registration /volunteer/addvolunteer
+CRUD of landmark
+donor and receiver registration
+CRUD of donor category
+edit profile of all roles
+login
+change/update/forget password
+
+
+1)dashboard--total food donation
+	--total donors
+	--total receivers
+	--total volunteers	
+	--total money donation	
+	--total charity events
+2)display voluteer
+3)add landmark manager 
+4)soft delete volunteer(id)
+5)display landmark manager
+6)soft delete landmark manager
+*7)CRUD of receiver category   /receiverCategory/add
+8)add food request
+9)display food request
+10)delete food request
+11)edit " "
+12)display food donation
+13)display money donation
+14)display food delivered
+15)CRUD of charity event
+16)CRUD of portfolio
+
+---------------------volunteer---------------
+
+1)dashboard
+	--area wise volunteer
+	--area wise food request
+	--area wise food donation
+	--area wise receiver
+2)CRUD of receiver
+3)area wise display food request
+4)area wise food donation
+5)area wise display volunteer
+
